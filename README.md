@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my React Portfolio.
 - 🌱 I’m learning ReactJS at Georgia Tech. 
-- 👯 I’m looking to collaborate on Defi Projects or any other new cyrpto technologies that are new.
-- 🤔 I’m looking for help with finding my first job. I am currently attending a Full Stack coding bootcamp at GA Tech. I graduate in June and I am an aspiring DevOps Engineer. I am excited to start my new career in the tech space preferably with crypto. I previously worked as a Fianacial Advisor for Merrill Lynch for about 9 years.
+- 👯 I’m looking to collaborate on DeFi Projects or any other new crypto technologies that are new.
+- 🤔 I’m looking for help with finding my first job. I am currently attending a Full Stack coding bootcamp at GA Tech. I graduate in June and I am an aspiring DevOps Engineer. I am excited to start my new career in the tech space preferably with crypto. I previously worked as a Financial Advisor for Merrill Lynch for about 9 years.
 - 💬 Ask me about the current market conditions. I am obsessed with traditional finance and this new modern day approach we are seeing with crypto. 
 - 📫 How to reach me: woodstr3313@gmail.com 
-- ⚡ Fun fact: In my free time I love to golf, fish, watching braves baseball or being out on the lake with my friends and family. I plan on buying a lakehouse with my new career this fall!
+- ⚡ Fun fact: In my free time I love to golf, fish, watching braves baseball or being out on the lake with my friends and family. I plan on buying a lake house with my new career this fall!
 
 <!--
 **woodstr3313/woodstr3313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
