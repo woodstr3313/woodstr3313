@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TuffDAO as a frontend developer. 
+- 🔭 I’m currently working on TuffDAO as a Front-End Engineer. 
 - 🌱 I’m currently learning ReactJS. 
 - 👯 I’m looking to collaborate on DeFi Projects or any other new crypto technologies that are new.
 - 🤔 I’m looking for help with finding my first job. I recently graduated from a Full Stack coding bootcamp at GA Tech. I graduated on June 15 and I am an aspiring DevOps Engineer. I am excited to start my new career in the tech space preferably with crypto. I previously worked as a Financial Advisor for Merrill Lynch for about 9 years.
