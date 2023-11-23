@@ -1,11 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TuffDAO as a Front-End Engineer. 
+- 🔭 I’m currently working at RevStar Consulting as a Senior Product Manager. 
 - 🌱 I’m currently learning ReactJS. 
 - 👯 I’m looking to collaborate on DeFi Projects or any other new crypto technologies that are new.
-- 🤔 I’m looking for help with finding my first job. I recently graduated from a Full Stack coding bootcamp at GA Tech. I graduated on June 15 and I am an aspiring DevOps Engineer. I am excited to start my new career in the tech space preferably with crypto. I previously worked as a Financial Advisor for Merrill Lynch for about 9 years.
+- 🤔 I'm passionate about propelling my career in Product Management and securing my ideal role. Guiding clients in shaping and bringing their MVPs to life, and strategically mapping their success, is a fulfilling endeavor for me. Witnessing their dreams materialize is truly inspiring. Moreover, I find great joy in leveraging data to generate innovative ideas, empowering business owners to implement imaginative solutions. I'm eager to contribute my skills and enthusiasm to drive impactful projects and achieve both personal and professional milestones in the realm of Product Management.
 - 💬 Ask me about the current market conditions. I am obsessed with traditional finance and this new modern day approach we are seeing with crypto. 
 - 📫 How to reach me: woodstr3313@gmail.com 
-- ⚡ Fun fact: In my free time I love to golf, fish, watching braves baseball or being out on the lake with my friends and family.
+- ⚡ Fun fact: In my free time I love to golf, fish, watching braves baseball or being out on the lake with my wife and kids.
 
 <!--
 **woodstr3313/woodstr3313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
